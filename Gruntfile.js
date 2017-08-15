@@ -164,9 +164,6 @@ module.exports = function(grunt) {
           tasks: ['handlebars']
         }
       },
-      casperjs: {
-        files: ['./test_frontend/*.js', '!./test_frontend/login.js']
-      },
       mochaTest: {
         test: {
           options: {
@@ -342,6 +339,5 @@ module.exports = function(grunt) {
 
     grunt.registerTask('default',['requirePlugins', 'less:dev', 'handlebars', 'watch']);
     grunt.registerTask('test',['mochaTest']);
-    grunt.registerTask('test-ui', ['casperjs']);
 
 };
