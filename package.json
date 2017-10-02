@@ -95,7 +95,7 @@
     "grunt-contrib-watch": "~0.5.1",
     "grunt-jscs": "^2.3.0",
     "grunt-merge-json": "^0.9.5",
-    "grunt-mocha-test": "~0.7.0",
+    "grunt-mocha-test": "~0.13.3",
     "grunt-open": "~0.2.2",
     "grunt-requirejs-bundle": "~0.0.7",
     "handlebars": "^4.0.5",
