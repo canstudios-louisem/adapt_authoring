@@ -128,7 +128,7 @@
     "serve-favicon": "^2.3.0",
     "underscore": "~1.5.2",
     "unzip": "0.1.8",
-    "validator": "4.2.1",
+    "validator": "9.1.1",
     "winston": "1.0.2"
   },
   "main": "index",
