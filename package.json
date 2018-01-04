@@ -107,7 +107,7 @@
     "less": "^2.7.1",
     "matchdep": "~0.3.0",
     "method-override": "^2.3.5",
-    "mime": "1.2.x",
+    "mime": "~2.2.0",
     "mkdirp": "0.3.5",
     "moment": "^2.9.0",
     "mongoose": "4.2.6",
