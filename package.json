@@ -118,7 +118,7 @@
     "node-ffprobe": "~1.2.2",
     "node-gyp": "~3.1.0",
     "node-polyglot": "~0.4.1",
-    "nodemailer": "~2.5.0",
+    "nodemailer": "~4.6.3",
     "optimist": "*",
     "passport": "~0.1.17",
     "prompt": "0.2.14",
