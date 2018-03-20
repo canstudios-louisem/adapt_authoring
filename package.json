@@ -82,7 +82,7 @@
     "express": "^4.13.3",
     "express-session": "^1.11.3",
     "fluent-ffmpeg": "~2.x",
-    "formidable": "1.0.17",
+    "formidable": "1.2.1",
     "fs-extra": "^0.16.3",
     "grunt": "~0.4.1",
     "grunt-bower-requirejs": "~0.7.1",
