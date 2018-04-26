@@ -133,7 +133,7 @@
   },
   "main": "index",
   "engines": {
-    "node": "4.x"
+    "node": "10"
   },
   "scripts": {
     "test": "make test"
