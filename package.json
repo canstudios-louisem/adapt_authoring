@@ -117,7 +117,7 @@
     "needle": "^0.10.0",
     "node-ffprobe": "~1.2.2",
     "node-gyp": "~3.1.0",
-    "node-polyglot": "~0.4.1",
+    "node-polyglot": "~2.3.0",
     "nodemailer": "~2.5.0",
     "optimist": "*",
     "passport": "~0.1.17",
