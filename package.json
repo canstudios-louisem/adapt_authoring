@@ -103,7 +103,7 @@
     "hbs": "2.4.0",
     "jshint-stylish": "^2.1.0",
     "json-schema-mapper": "0.0.2",
-    "junk": "^1.0.2",
+    "junk": "^3.0.0",
     "less": "^2.7.1",
     "matchdep": "~0.3.0",
     "method-override": "^2.3.5",
