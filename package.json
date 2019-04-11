@@ -80,7 +80,7 @@
     "email-templates": "^2.4.1",
     "errorhandler": "^1.4.2",
     "express": "^4.13.3",
-    "express-session": "^1.11.3",
+    "express-session": "^1.16.0",
     "fluent-ffmpeg": "~2.x",
     "formidable": "1.0.17",
     "fs-extra": "^0.16.3",
