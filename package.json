@@ -70,7 +70,7 @@
     "archiver": "~0.16.0",
     "async": "0.2.5",
     "bcrypt-nodejs": "0.0.3",
-    "body-parser": "^1.13.3",
+    "body-parser": "^1.19.0",
     "bower": "1.6.5",
     "chalk": "^1.0.0",
     "compression": "^1.5.2",
