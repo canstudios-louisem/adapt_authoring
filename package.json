@@ -124,7 +124,7 @@
     "prompt": "0.2.14",
     "request": "^2.53.0",
     "rimraf": "~2.2.5",
-    "semver": "^5.0.3",
+    "semver": "^6.1.0",
     "serve-favicon": "^2.3.0",
     "underscore": "~1.5.2",
     "unzip": "0.1.8",
