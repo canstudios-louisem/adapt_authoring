@@ -120,7 +120,7 @@
     "node-polyglot": "~0.4.1",
     "nodemailer": "~2.5.0",
     "optimist": "*",
-    "passport": "~0.1.17",
+    "passport": "~0.4.1",
     "prompt": "0.2.14",
     "request": "^2.53.0",
     "rimraf": "~2.2.5",
