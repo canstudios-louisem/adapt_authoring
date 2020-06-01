@@ -104,7 +104,7 @@
     "jshint-stylish": "^2.1.0",
     "json-schema-mapper": "0.0.2",
     "junk": "^1.0.2",
-    "less": "^2.7.1",
+    "less": "^3.11.2",
     "matchdep": "~0.3.0",
     "method-override": "^2.3.5",
     "mime": "1.2.x",
